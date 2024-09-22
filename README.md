@@ -3,7 +3,7 @@
 Welcome to my repository where I share my journey through the 1337 piscine at Benguerir! 
 
 ## Overview
-- **Date:** September 24, 2023
+- **Date:** September 2024
 - **Campus Ranking:** 3rd place in Benguerir, 4th place overall
 
 In this repo, you'll find details about my experiences, challenges faced, and what I learned during this intensive coding bootcamp.
