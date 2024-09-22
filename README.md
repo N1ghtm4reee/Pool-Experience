@@ -26,7 +26,7 @@ In this repo, you'll find details about my experiences, challenges faced, and wh
 | C04       | [100%](docs/projects/C04)    |
 | C05       | [100%](docs/projects/C05)    |
 | C06       | [100%](docs/projects/C06)   |
-| C07       | Data 10   |
+| C07       | [100%](docs/projects/C07)   |
 | C08       | Data 11   |
 | C09       | Data 12   |
 | C10       | Data 13   |
