@@ -4,7 +4,7 @@ Welcome to my repository where I share my journey and my solutions through the 1
 
 ## Overview
 - **Date:** September 2024
-- **Campus Ranking:** 3rd place in Benguerir, 4th place overall
+<!--- **Campus Ranking:** 3rd place in Benguerir, 4th place overall -->
 
 In this repo, you'll find details about my experiences, challenges faced, and what I learned during this intensive coding bootcamp.
 
