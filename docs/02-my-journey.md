@@ -3,8 +3,8 @@ During this piscine, we began with shell days, where we tackled exercises that r
 
 We then progressed to C programming challenges, with each day focused on a main topic. Some of the subjects I explored include:
 
-Pointers\n
-String manipulation\n
+Pointers
+String manipulation
 Recursion
 Memory allocation
 argc and argv
