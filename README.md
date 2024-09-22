@@ -20,7 +20,7 @@ In this repo, you'll find details about my experiences, challenges faced, and wh
 | Shell00   |   100%    |
 | Shell01   |    70%    |
 | C00       | [100%](docs/projects/C00)    |
-| C01       | Data 4    |
+| C01       | [100%](docs/projects/C01)    |
 | C02       | Data 5    |
 | C03       | Data 6    |
 | C04       | Data 7    |
