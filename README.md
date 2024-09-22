@@ -15,19 +15,19 @@ In this repo, you'll find details about my experiences, challenges faced, and wh
 - [Achievements](docs/04-achievements.md)
 - [projects](docs/05-projects.md)
 
-| Column 1  | Column 2  |
+| Projects  | Solutions |
 |-----------|-----------|
-| Row 1     | Data 1    |
-| Row 2     | Data 2    |
-| Row 3     | Data 3    |
-| Row 4     | Data 4    |
-| Row 5     | Data 5    |
-| Row 6     | Data 6    |
-| Row 7     | Data 7    |
-| Row 8     | Data 8    |
-| Row 9     | Data 9    |
-| Row 10    | Data 10   |
-| Row 11    | Data 11   |
-| Row 12    | Data 12   |
-| Row 13    | Data 13   |
-| Row 14    | Data 14   |
+| Shell00   |   100%    |
+| Shell01   |    70%    |
+| C00       | Data 3    |
+| C01       | Data 4    |
+| C02       | Data 5    |
+| C03       | Data 6    |
+| C04       | Data 7    |
+| C05       | Data 8    |
+| C06       | Data 9    |
+| C07       | Data 10   |
+| C08       | Data 11   |
+| C09       | Data 12   |
+| C10       | Data 13   |
+| C11       | Data 14   |
