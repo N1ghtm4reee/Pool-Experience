@@ -1,6 +1,6 @@
 # My 1337 Piscine Experience in Benguerir
 
-Welcome to my repository where I share my journey through the 1337 piscine at Benguerir! 
+Welcome to my repository where I share my journey and my solutions through the 1337 piscine at Benguerir! 
 
 ## Overview
 - **Date:** September 2024
