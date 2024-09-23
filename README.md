@@ -13,7 +13,7 @@ In this repo, you'll find details about my experiences, challenges faced, and wh
 - [My Journey](docs/02-my-journey.md)
 - [Challenges](docs/03-challenges.md)
 - [Achievements](docs/04-achievements.md)
-- [projects](docs/05-projects.md)
+- [projects](docs/)
 
 | Projects  | Solutions |
 |-----------|-----------|
