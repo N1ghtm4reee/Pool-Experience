@@ -29,4 +29,4 @@ In this repo, you'll find details about my experiences, challenges faced, and wh
 | C08       | [100%](docs/projects/C08)   |
 | C09       | [100%](docs/projects/C08)   |
 | C11       | [100%](docs/projects/C11)   |
-| BSQ       | [100%](docs/projects/)   |
+| BSQ       | [50%](docs/projects/)   |
