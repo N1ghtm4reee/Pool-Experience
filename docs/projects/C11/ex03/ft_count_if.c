@@ -6,7 +6,7 @@
 /*   By: aakhrif <aakhrif@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/12 17:18:53 by aakhrif           #+#    #+#             */
-/*   Updated: 2024/09/12 18:30:36 by aakhrif          ###   ########.fr       */
+/*   Updated: 2024/09/16 21:30:29 by aakhrif          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,9 +17,9 @@ int	ft_count_if(char **tab, int length, int (*f)(char*))
 
 	i = 0;
 	counter = 0;
-	while (tab[i])
+	while (i < length)
 	{
-		if ((*f)(tab[i]) != 0)
+		if (f(tab[i]) != 0)
 			counter++;
 		i++;
 	}
