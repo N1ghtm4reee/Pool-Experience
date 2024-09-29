@@ -1,4 +1,4 @@
-# My 1337 Piscine Experience in Benguerir
+# 1337 August Piscine 2024 - aakhrif
 
 Welcome to my repository where I share my journey and my solutions through the 1337 piscine at Benguerir! 
 
