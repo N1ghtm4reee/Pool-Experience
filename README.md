@@ -16,8 +16,8 @@ In this repo, you'll find details about my experiences, challenges faced, and wh
 
 | Projects  | Solutions |
 |-----------|-----------|
-| Shell00   |   100%    |
-| Shell01   |    70%    |
+| Shell00   |   [100%](docs/projects/Shell00)    |
+| Shell01   |   [70%](docs/projects/Shell01)    |
 | C00       | [100%](docs/projects/C00)    |
 | C01       | [100%](docs/projects/C01)    |
 | C02       | [100%](docs/projects/C02)    |
