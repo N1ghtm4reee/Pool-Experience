@@ -23,4 +23,7 @@ Welcome to my repository where I share my journey and my solutions through the 1
 | C09       | [100%](docs/projects/C08)   |
 | C11       | [100%](docs/projects/C11)   |
 | BSQ       | [50%](docs/projects/)   |
-| Exam00       | [100%]   |
+| Exam00       | 100%   |
+| Exam01       | 100%   |
+| Exam02       | 100%   |
+| Final Exam       | 100%   |
