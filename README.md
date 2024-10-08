@@ -11,7 +11,7 @@ Welcome to my repository where I share my journey and my solutions through the 1
 |-----------|-----------|
 | Shell00   |   [100%](docs/projects/Shell00)    |
 | Shell01   |   [70%](docs/projects/Shell01)    |
-| C00       | [100%](docs/projects/C00)    |
+| [C00](docs/projects/C00/subject)       | [100%](docs/projects/C00/solutions)    |
 | C01       | [100%](docs/projects/C01)    |
 | C02       | [100%](docs/projects/C02)    |
 | C03       | [100%](docs/projects/C03)    |
