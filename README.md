@@ -1,5 +1,7 @@
 # 1337 August Piscine 2024 - aakhrif
 
+![](https://badge.mediaplus.ma/greenbinary/aakhrif)
+
 Welcome to my repository where I share my journey and my solutions through the 1337 piscine at Benguerir! 
 
 ## Contents
